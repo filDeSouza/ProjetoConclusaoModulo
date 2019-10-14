@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Projeto Conclusao de Modulo</string>
+    <string name="title_activity_menu_drawer">MenuDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="string_email_invalido">O email digitado não é válido!</string>
+    <string name="string_senha_invalida">O campo senha deve ser preenchido!</string>
+    <string name="string_nome_invalido">Digite um nome</string>
+    <string name="string_senharepeat_invalido">As senhas devem ser iguais!</string>
+</resources>
